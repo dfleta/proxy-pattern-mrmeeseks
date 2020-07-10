@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# IDE
+.classpath
+.project
+/bin/
+.sts4-cache
+
+# VSCode
+.vscode
+.settings
+
+# Library
+.settings/
