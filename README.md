@@ -5,9 +5,11 @@ Proxy Pattern Mr Meeseeks
 Jen, Jerry y Summer utilizar la caja de generación de Mr Meeseeks que Rick ha construido.
 
 Implementa el proceso de creación, conversación, satisfacción del deseo y fin de la existencia de cada uno de los Mr Meeseeks que aparecen en la secuencia del vídeo (estas son las historias de usuario/a):
-[MrMeeseeks generator box](https://www.youtube.com/watch?v=qUYvIAP3qQk&t=3s)
+
+[![Cómo invocar a un Mr Meeseeks](./mrmeeseeks_sequence.png)](https://www.youtube.com/watch?v=qUYvIAP3qQk&t=3s)
 
 Puedes observar la salida de la aplicación en la figura:
+
 ![Salida consola](./salida_terminal.png)
 
 ## Implementación
